@@ -1,0 +1,81 @@
+.logo
+{
+    width: 220px;
+    height: auto;
+}
+.side-title > h3
+{
+    font-size: 21px;
+    margin-bottom: 3px;
+}
+.side-title > p
+{
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+.sosial-media > img
+{
+    width: 30px;
+    height: auto;
+}
+.navbar-custom
+{
+    background-image: url(images/bg-menu.jpg);
+}
+li.active
+{
+    background-image: url(images/bg-menu-hover.png);
+}
+
+
+.garis
+{
+    border:3px solid rgb(180, 176, 176);
+    border-radius: 1%;
+    box-shadow:0px 0px 50px white;
+}
+.bg
+{
+    background-color: rgb(12, 70, 125);
+}
+.footer
+{
+    background-color: #0F3065;
+}
+.gmb
+{
+    width: 120px;
+    height: 120px;
+}   
+.ke2{
+background-color: #595f63;
+
+}
+.ke3
+{
+    border: 2px solid black;
+    animation: ke3 1s infinite;
+    align-tracks: center;
+}
+@keyframes ke3{
+    50% {box-shadow: 0px 0px 50px rgb(255, 157, 0);}
+}
+.ke4
+{
+    border: 2px solid black;
+    animation: ke4 1s infinite ;
+}
+@keyframes ke4{
+    50% {box-shadow: 0px 0px 50px rgb(13, 255, 0);}
+}
+.ke5
+{
+    border: 2px solid black;
+    animation: ke5 1s infinite;
+}
+@keyframes ke5{
+    50% {box-shadow: 0px 0px 50px rgb(0, 200, 255);}
+}
+.welcome{
+    text-shadow: 3px 5px 3px black;
+}

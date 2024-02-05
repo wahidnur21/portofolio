@@ -1,0 +1,50 @@
+.logo
+{
+    width: 220px;
+    height: auto;
+}
+.side-title > h3
+{
+    font-size: 21px;
+    margin-bottom: 3px;
+}
+.side-title > p
+{
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+.sosial-media > img
+{
+    width: 30px;
+    height: auto;
+}
+.navbar-custom
+{
+    background-image: url(images/bg-menu.jpg);
+}
+li.active
+{
+    background-image: url(images/bg-menu-hover.png);
+}
+
+
+
+.judul{
+    color: #153870;
+}
+.news > .title{
+    color: #6294C0;
+}
+.news > .desc{
+    color: #877E85;
+}
+.footer{
+    background-color: #0F3065;
+}
+.kartu > img {
+    width: 250px;
+    height: 200px;
+}
+.ad{
+    text-shadow: 3px 5px 3px black;
+}

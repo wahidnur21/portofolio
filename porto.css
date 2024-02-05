@@ -1,0 +1,101 @@
+.logo
+{
+    width: 220px;
+    height: auto;
+}
+.side-title > h3
+{
+    font-size: 21px;
+    margin-bottom: 3px;
+}
+.side-title > p
+{
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+.sosial-media > img
+{
+    width: 30px;
+    height: auto;
+}
+.navbar-custom
+{
+    background-image: url(images/bg-menu.jpg);
+}
+li.active
+{
+    background-image: url(images/bg-menu-hover.png);
+}
+
+.gmb
+{
+    width: 17,5rem;
+    height: 17rem;
+}
+.footer
+{
+    background-color: #0F3065;
+}
+.bgatas{
+    background-image: url(images/yy.jpg);
+}
+.wr2
+{
+    border: 2px solid black;
+    border-radius: 1%;
+    animation:wr2 1s infinite ;
+
+}
+@keyframes wr2{
+    50% {box-shadow: 0px 0px 50px rgb(255, 157, 0);}
+}
+.wr1
+{
+    border: 2px solid black;
+    border-radius: 1%;
+    animation:wr1 1s infinite ;
+
+}
+@keyframes wr1{
+    50% {box-shadow: 0px 0px 50px rgb(255, 0, 43);}
+}
+.wr3
+{
+    border: 2px solid black;
+    border-radius: 1%;
+    animation:wr3 1s infinite ;
+
+}
+@keyframes wr3{
+    50% {box-shadow: 0px 0px 50px rgb(0, 4, 255);}
+}
+.wr4
+{
+    border: 2px solid black;
+    border-radius: 1%;
+    animation:wr4 1s infinite ;
+
+}
+@keyframes wr4{
+    50% {box-shadow: 0px 0px 50px rgb(0, 255, 8);}
+}
+.wr5
+{
+    border: 2px solid black;
+    border-radius: 1%;
+    animation:wr5 1s infinite ;
+
+}
+@keyframes wr5{
+    50% {box-shadow: 0px 0px 50px rgb(255, 0, 230);}
+}
+.wr6
+{
+    border: 2px solid black;
+    border-radius: 1%;
+    animation:wr6 1s infinite ;
+
+}
+@keyframes wr6{
+    50% {box-shadow: 0px 0px 50px rgb(255, 0, 0);}
+}
